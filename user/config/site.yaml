@@ -1,0 +1,53 @@
+title: Peter Bui - Web consultant & Joomla, WordPress & Grav Expert
+author:
+  name: Peter Bui
+  email: 'hello@peterbui.net'
+metadata:
+    description: 'Profile and bio of Peter Bui and his web consulting team.'
+    
+# Site settings
+title: Peter Bui, web consultant specialising in Joomla, WordPress and Grav.
+email: hello@peterbui.net
+description: "Peter is a web consultant specialising in Joomla, WordPress and Grav. Loves Open Source!"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - label: Twitter
+    url: "http://twitter.com/astroboysoup"
+    icon: twitter
+  - label: Facebook
+    url: "https://www.facebook.com/peterbui5"
+    icon: facebook
+  - label: Google+
+    url: "https://plus.google.com/u/0/+PeterBui/"
+    icon: google-plus
+  - label: Github 
+    url: "https://github.com/pbwebdev"
+    icon: github
+
+copyright: 
+  line1: PP Ventures Proprietary Ltd
+  builtwith: Grav
+  builtwith_url: http://getgrav.org
+  line2: by:
+  url: http://pbwebdev.com
+  url_label: PB Web Development
+    
+logo:
+  text1: "Peter Bui"
+  text2: "Web Consultant"
+
+# Main Menu
+menu:
+  - text: "Skills & Education"
+    link: "skills-education"
+  - text: "Experience"
+    link: "experience"
+  - text: "Speaking"
+    link: "speaking"
+  - text: "Contact"
+    link: "contact"  
+
+buttons:
+  - text: "Contact"
+    link: "contact"
