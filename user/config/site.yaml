@@ -37,17 +37,8 @@ logo:
   text1: "Peter Bui"
   text2: "Web Consultant"
 
-# Main Menu
-menu:
-  - text: "Skills & Education"
-    link: "skills-education"
-  - text: "Experience"
-    link: "experience"
-  - text: "Speaking"
-    link: "speaking"
-  - text: "Contact"
-    link: "contact"  
+
 
 buttons:
   - text: "Contact"
-    link: "contact"
+    link: "#contact"
