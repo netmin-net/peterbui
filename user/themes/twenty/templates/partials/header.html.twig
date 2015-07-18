@@ -3,17 +3,10 @@
     <nav id="nav">
         <ul>
             <li class="current"><a href="{{ base_url_absolute }}">Home</a></li>
-            <li class="submenu">
-                <a href="">Menu</a>
-                <ul>
-                    {% for menu in site.menu %}
-                        <li><a href="{{ menu.link }}">{{ menu.text }}</a></li>
-                    {% endfor %}
-                </ul>
-            </li>
+
 
             {% for button in site.buttons %}
-                <li><a href="{{ button.link }}" class="button special">{{ button.text }}</a></li>
+                <li><a href="{{ button.link }}" class="button special scrolly">{{ button.text }}</a></li>
             {% endfor %}
         </ul>
     </nav>
