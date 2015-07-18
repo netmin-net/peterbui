@@ -1,5 +1,5 @@
 ---
-title: Twenty
+title: For Hire
 menu: Home
 onpage_menu: true
 body_class: index
