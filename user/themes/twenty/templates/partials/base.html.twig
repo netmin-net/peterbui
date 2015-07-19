@@ -11,7 +11,7 @@
         <meta name="author"  content="Bui, Peter"/>
         <link rel="author" href="https://plus.google.com/u/0/117503155223806317120">
 
-        <link rel="icon" type="image/png" href="{{ theme_url }}/images/favicon.png" />
+        <link rel="icon" type="image/png" href="{{ theme_url }}/images/favicon.ico" />
 
         {% block stylesheets %}
                 {% do assets.addCss('theme://css/skel.css') %}
@@ -34,6 +34,9 @@
                  {% do assets.addJs('theme://css/ie/html5shiv.js') %}
             {% endif %}
             {% do assets.add('jquery',101) %}
+
+            {% do assets.add('https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js', 101) %}
+
             {% do assets.addJs('theme://js/jquery.dropotron.min.js') %}
             {% do assets.addJs('theme://js/jquery.scrolly.min.js') %}
             {% do assets.addJs('theme://js/jquery.scrollgress.min.js') %}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;;;AAQC,6BAA8B;EAC7B,SAAS,EAAE,IAAI;;;AAMf,cAAU;EACT,WAAW,EAAE,KAAK;EAClB,aAAa,EAAE,GAAG",
+"sources": ["../scss/style-wide.scss"],
+"names": [],
+"file": "style-wide.css"
+}

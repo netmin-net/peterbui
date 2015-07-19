@@ -184,7 +184,7 @@ $pattern-background-size: 25em;
 		@include vendor-property('transition', 'background-color 0.2s ease-in-out, border-color 0.2s ease-in-out');
 		@include vendor-property('appearance', 'none');
 		background: none;
-		border: solid 1px $color-border;
+		border: solid 2px $color-border;
 		color: inherit;
 		display: block;
 		padding: 0.75em;
