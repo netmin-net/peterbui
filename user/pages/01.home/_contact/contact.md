@@ -1,7 +1,7 @@
 ---
 title: Get In Touch
 description: Use the form below to give /dev/null a piece of your mind.
-contact: Email me directly <a href="mailto:hello@peterbui.net">hello@peterbui.net</a>,<br/> skype: astroboysoup or<br/> call <a href="tel:+61 413 49 4947">+61 413 49 49 47</a>
+contact: Email me directly <a href="mailto:peter@pbwebdev.com.au">peter@pbwebdev.com.au</a>,<br/> skype: astroboysoup or<br/> call <a href="tel:+61 413 49 4947">+61 413 49 49 47</a>
 body_class: contact
 icon: envelope
 simple_form:
